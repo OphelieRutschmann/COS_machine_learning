@@ -1,1 +1,2 @@
-test to see if git is working
+Hello, I'm Ophélie and I'm a Bioinformatician.
+I'm currently living in Lausanne!

@@ -1,3 +1,0 @@
-Hello, I'm Ophélie and I'm a Bioinformatician.
-I'm currently living in Lausanne!
-What I'm looking for in this course is to learn more about machine learning in general, and get more familiar with coding with python.

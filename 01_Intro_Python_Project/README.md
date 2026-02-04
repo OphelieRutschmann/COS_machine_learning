@@ -1,4 +1,4 @@
-# Introduction to data analysis with python - final project
+# Introduction to data analysis with python - project
 
 This repository contains the jupyter notebook with the solutions for the final project of the first module. 
 

@@ -80,7 +80,7 @@ The goal of this unit is to perform a couple of advance data analysis steps to a
 1) Plotting the total number of items created each month at each hour. 
 2) Plotting the evolution of the total number of items over time.
 
-## **Unit F**
+### **Unit F**
 1) Correlation analysis
     - a) Computing the correlations
     - b) Visualizing the correlations
@@ -88,7 +88,7 @@ The goal of this unit is to perform a couple of advance data analysis steps to a
     - a) Data exploration and cleaning
     - b) Statistical testing
 
-## **Unit G**
+### **Unit G**
 1) What is the total number of samples per country?
 2) What is the percentage of organic products for each country?
 3) Comparision in the distribution of macronutrients between organic and non organic products.

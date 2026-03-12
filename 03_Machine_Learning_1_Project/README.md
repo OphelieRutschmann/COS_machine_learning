@@ -26,7 +26,7 @@ tbd
 
 ## **Table of content**
 
-#### **Section 1: Exploratory data analysis and data cleaning**
+### **Section 1: Exploratory data analysis and data cleaning**
 1. **Preliminary EDA and data cleaning**
     - 1.1 Preliminary data set exploration
     - 1.2 Removing duplicated rows
@@ -62,7 +62,7 @@ tbd
 5. **Summary**
 6. **Saving the cleaned data**
 
-#### **Section 2: Feature Engineering**
+### **Section 2: Feature Engineering**
 1. **Creating indicator variables**
     - 1.1 Selecting the variables
     - 1.2 Indicator variables for variables we wish to replace
@@ -75,7 +75,7 @@ tbd
     - 3.2 Creating polynomial features for Gr Liv Area
 4. **Saving the data sets**
 
-#### **Section 3: Feature Encoding**
+### **Section 3: Feature Encoding**
 1. **Encoding the nominal features**
     - 1.1 Boolean Encoding for the "Central Air* feature
     - 1.2 One hot encoding for the other nominal features

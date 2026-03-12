@@ -1,7 +1,11 @@
-# Introduction to data analysis with python - project
+# **Introduction to data analysis with python - project**
 
-This repository contains the jupyter notebook with the solutions for the final project of the first module. 
+## **Author**
+Ophélie Rutschmann
+Project submitted in January 2026
 
+## **Introduction**
+This repository contains the jupyter notebook with the solutions for the final project of the first module of the COS in applied data science: machine learning from the EPFL extension school 
 This project consisted in diverse analysis and visualization tasks using a dataset from the Federal Statistical Office of Switzerland. 
 The dataset contains demographic and geographic information for all communes in Switzerland. 
 

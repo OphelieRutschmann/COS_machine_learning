@@ -2,6 +2,7 @@
 
 ## **Author**
 Ophélie Rutschmann 
+Project submitted in March 2026.
 
 ## **Introduction**
 The goal of this project is to showcase skills in applied data analysis by exploring a dataset, preparing it for in-depth analysis and drawing meaningful insights from it. The dataset for this project is collected from the Open Food repo, a community-driven open database for barcoded food products. This dataset contains the ingredients and nutritional facts of approximately 385k food products, from several countries worldwide.

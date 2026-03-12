@@ -4,9 +4,9 @@
 Ophélie Rutschmann
 
 ## **Introduction**
-This project uses a house price dataset compiled and published by Dean De Cock, which contains 2,930 observations across 82 features. The original data, sourced directly from the Ames Assessor’s Office, was collected for tax assessment purposes.
+The primary goal of this project is to develop and evaluate Linear Regression Models that can accurately predict house prices based on the Ames Housing Data set. This house price dataset was compiled and published by Dean De Cock, and contains 2,930 observations across 82 features (https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset).. The original data, sourced directly from the Ames Assessor’s Office, was collected for tax assessment purposes. 
 
-The primary goal of this project is to develop and evaluate Linear Regression Models that can accurately predict house prices based on the available features. During this project, I will go through all the main steps of a data science project i.e. **preparing the data**, **exploring the data (EDA)** and **modeling**. In the modeling part, I will use a training set that consists of 2430 ones entries to fit and evaluate different models and use them to make predictions for a test set consisting of 500 entries.
+During this project, I will go through all the main steps of a data science project such as **preparing the data**, **exploring the data (EDA)** and **modeling**. In the modeling part, I will use a training set that consists of 2430 ones entries to fit and evaluate different models and use them to make predictions for a test set consisting of 500 entries.
 
 ## **Methods**
 
@@ -22,7 +22,7 @@ The goal of this section is to enhance the dataset by creating new features and 
 The goal of this section is to encode the categorical features in our data set. I will encode both nominal features (where we don't need to order the categories) and ordinal features (where we will define how to order the categories).
 
 #### **Section 4: Data Splitting**
-
+tbd
 
 ## **Table of content**
 
